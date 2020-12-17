@@ -1,2 +1,2 @@
 print("Py")
-print("Pythom")
+print("Pythomg")
